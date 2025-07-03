@@ -1,2 +1,2 @@
 # rinkishimo-css
-a css by me
+https://e-z.bio/lee
